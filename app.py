@@ -15,7 +15,7 @@ LOG_FILE = os.path.join(DATA_DIR, "qr_scans.csv")
 # Map codes (conditions / groups) to their final URLs
 # You will edit these destinations to match your study design.
 DESTINATIONS = {
-    "conditionA": "https://example.com/your-final-page-A",
+    "conditionA": "https://forms.gle/3byQyse6MDUTWCQ68",
     "conditionB": "https://example.com/your-final-page-B"
 }
 
